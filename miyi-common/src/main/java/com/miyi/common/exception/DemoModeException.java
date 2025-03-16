@@ -3,7 +3,7 @@ package com.miyi.common.exception;
 /**
  * 演示模式异常
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class DemoModeException extends RuntimeException
 {

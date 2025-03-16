@@ -6,7 +6,7 @@ import com.miyi.common.utils.ServletUtils;
 /**
  * 表格数据处理
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class TableSupport
 {

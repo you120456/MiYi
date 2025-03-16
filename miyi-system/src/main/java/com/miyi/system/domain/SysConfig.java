@@ -10,7 +10,7 @@ import com.miyi.common.core.domain.BaseEntity;
 /**
  * 参数配置表 sys_config
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class SysConfig extends BaseEntity
 {

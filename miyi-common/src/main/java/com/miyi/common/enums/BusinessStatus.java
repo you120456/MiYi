@@ -3,7 +3,7 @@ package com.miyi.common.enums;
 /**
  * 操作状态
  * 
- * @author ruoyi
+ * @author miyi
  */
 public enum BusinessStatus
 {

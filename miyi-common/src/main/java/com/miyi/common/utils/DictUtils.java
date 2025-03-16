@@ -8,7 +8,7 @@ import com.miyi.common.core.domain.entity.SysDictData;
 /**
  * 字典工具类
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Component
 public class DictUtils

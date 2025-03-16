@@ -8,7 +8,7 @@ import com.miyi.common.core.domain.entity.SysDictType;
 /**
  * 字典 业务层
  * 
- * @author ruoyi
+ * @author miyi
  */
 public interface ISysDictTypeService
 {

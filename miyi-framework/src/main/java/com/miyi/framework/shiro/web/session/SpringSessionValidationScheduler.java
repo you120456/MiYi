@@ -17,7 +17,7 @@ import com.miyi.common.utils.Threads;
 /**
  * 自定义任务调度器完成
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Component
 public class SpringSessionValidationScheduler implements SessionValidationScheduler

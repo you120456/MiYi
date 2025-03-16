@@ -10,7 +10,7 @@ import com.miyi.common.core.domain.BaseEntity;
 /**
  * 菜单权限表 sys_menu
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class SysMenu extends BaseEntity
 {

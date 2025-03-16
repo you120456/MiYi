@@ -6,7 +6,7 @@ import com.miyi.system.domain.SysNotice;
 /**
  * 公告 数据层
  * 
- * @author ruoyi
+ * @author miyi
  */
 public interface SysNoticeMapper
 {

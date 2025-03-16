@@ -14,7 +14,7 @@ import com.miyi.common.utils.MessageUtils;
 /**
  * permission 工具类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class PermissionUtils
 {

@@ -6,7 +6,7 @@ import com.miyi.generator.domain.GenTableColumn;
 /**
  * 业务字段 服务层
  * 
- * @author ruoyi
+ * @author miyi
  */
 public interface IGenTableColumnService
 {

@@ -33,7 +33,7 @@ import com.miyi.system.domain.SysOperLog;
 /**
  * 操作日志记录处理
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Aspect
 @Component

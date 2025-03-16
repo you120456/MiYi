@@ -8,7 +8,7 @@ import com.miyi.common.config.datasource.DynamicDataSourceContextHolder;
 /**
  * 动态数据源
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class DynamicDataSource extends AbstractRoutingDataSource
 {

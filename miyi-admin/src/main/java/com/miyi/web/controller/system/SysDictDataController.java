@@ -23,7 +23,7 @@ import com.miyi.system.service.ISysDictDataService;
 /**
  * 数据字典信息
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Controller
 @RequestMapping("/system/dict/data")

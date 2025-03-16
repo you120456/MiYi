@@ -38,7 +38,7 @@ import com.miyi.system.service.ISysUserService;
 /**
  * 用户信息
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Controller
 @RequestMapping("/system/user")

@@ -3,7 +3,7 @@ package com.miyi.common.utils.uuid;
 /**
  * ID生成器工具类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class IdUtils
 {

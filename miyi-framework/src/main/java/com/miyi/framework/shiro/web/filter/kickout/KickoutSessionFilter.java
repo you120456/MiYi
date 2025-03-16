@@ -26,7 +26,7 @@ import com.miyi.common.utils.ShiroUtils;
 /**
  * 登录帐号控制过滤器
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class KickoutSessionFilter extends AccessControlFilter
 {

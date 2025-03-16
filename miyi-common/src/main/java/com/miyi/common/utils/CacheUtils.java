@@ -12,7 +12,7 @@ import com.miyi.common.utils.spring.SpringUtils;
 /**
  * Cache工具类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class CacheUtils
 {

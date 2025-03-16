@@ -10,7 +10,7 @@ import com.miyi.common.core.domain.BaseEntity;
 /**
  * 系统访问记录表 sys_logininfor
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class SysLogininfor extends BaseEntity
 {

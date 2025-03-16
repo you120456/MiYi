@@ -6,7 +6,7 @@ import com.miyi.system.domain.SysRoleDept;
 /**
  * 角色与部门关联表 数据层
  * 
- * @author ruoyi
+ * @author miyi
  */
 public interface SysRoleDeptMapper
 {

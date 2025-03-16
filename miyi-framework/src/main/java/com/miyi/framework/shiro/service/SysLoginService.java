@@ -31,7 +31,7 @@ import com.miyi.system.service.ISysUserService;
 /**
  * 登录校验方法
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Component
 public class SysLoginService

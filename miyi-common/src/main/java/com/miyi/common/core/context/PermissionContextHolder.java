@@ -7,7 +7,7 @@ import com.miyi.common.core.text.Convert;
 /**
  * 权限信息
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class PermissionContextHolder
 {

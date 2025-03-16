@@ -3,7 +3,7 @@ package com.miyi.common.exception.user;
 /**
  * 黑名单IP异常类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class BlackListException extends UserException
 {

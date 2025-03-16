@@ -23,7 +23,7 @@ import com.miyi.common.utils.security.PermissionUtils;
 /**
  * 全局异常处理器
  * 
- * @author ruoyi
+ * @author miyi
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

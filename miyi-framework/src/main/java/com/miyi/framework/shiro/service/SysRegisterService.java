@@ -18,7 +18,7 @@ import com.miyi.system.service.ISysUserService;
 /**
  * 注册校验方法
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Component
 public class SysRegisterService

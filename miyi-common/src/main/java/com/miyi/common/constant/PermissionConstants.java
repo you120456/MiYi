@@ -3,7 +3,7 @@ package com.miyi.common.constant;
 /**
  * 权限通用常量
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class PermissionConstants
 {

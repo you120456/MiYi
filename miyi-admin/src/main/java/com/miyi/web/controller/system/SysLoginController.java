@@ -23,7 +23,7 @@ import com.miyi.framework.web.service.ConfigService;
 /**
  * 登录验证
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Controller
 public class SysLoginController extends BaseController

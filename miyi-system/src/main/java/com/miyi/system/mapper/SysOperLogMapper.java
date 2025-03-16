@@ -6,7 +6,7 @@ import com.miyi.system.domain.SysOperLog;
 /**
  * 操作日志 数据层
  * 
- * @author ruoyi
+ * @author miyi
  */
 public interface SysOperLogMapper
 {

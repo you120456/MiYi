@@ -21,7 +21,7 @@ import com.miyi.quartz.util.ScheduleUtils;
 /**
  * 定时任务调度信息 服务层
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Service
 public class SysJobServiceImpl implements ISysJobService

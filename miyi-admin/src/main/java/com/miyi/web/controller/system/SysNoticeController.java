@@ -22,7 +22,7 @@ import com.miyi.system.service.ISysNoticeService;
 /**
  * 公告 信息操作处理
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Controller
 @RequestMapping("/system/notice")

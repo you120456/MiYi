@@ -12,7 +12,7 @@ import com.miyi.system.service.ISysUserOnlineService;
 /**
  * 会话db操作处理
  * 
- * @author ruoyi
+ * @author miyi
  */
 @Component
 public class SysShiroService

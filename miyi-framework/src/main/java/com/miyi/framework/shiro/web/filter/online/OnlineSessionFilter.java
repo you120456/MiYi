@@ -18,7 +18,7 @@ import com.miyi.framework.shiro.session.OnlineSessionDAO;
 /**
  * 自定义访问控制
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class OnlineSessionFilter extends AccessControlFilter
 {

@@ -16,7 +16,7 @@ import com.miyi.common.utils.StringUtils;
 /**
  * 图片处理工具类
  *
- * @author ruoyi
+ * @author miyi
  */
 public class ImageUtils
 {

@@ -16,7 +16,7 @@ import com.miyi.common.core.text.Convert;
 /**
  * 客户端工具类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class ServletUtils
 {

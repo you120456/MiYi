@@ -6,7 +6,7 @@ import com.miyi.system.domain.SysPost;
 /**
  * 岗位信息 服务层
  * 
- * @author ruoyi
+ * @author miyi
  */
 public interface ISysPostService
 {

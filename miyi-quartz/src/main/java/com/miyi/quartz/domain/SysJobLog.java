@@ -9,7 +9,7 @@ import com.miyi.common.core.domain.BaseEntity;
 /**
  * 定时任务调度日志表 sys_job_log
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class SysJobLog extends BaseEntity
 {

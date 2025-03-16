@@ -19,7 +19,7 @@ import com.miyi.system.service.ISysUserOnlineService;
 /**
  * 退出过滤器
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class LogoutFilter extends org.apache.shiro.web.filter.authc.LogoutFilter
 {

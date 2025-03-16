@@ -11,7 +11,7 @@ import com.miyi.common.utils.StringUtils;
 /**
  * 业务表 gen_table
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class GenTable extends BaseEntity
 {

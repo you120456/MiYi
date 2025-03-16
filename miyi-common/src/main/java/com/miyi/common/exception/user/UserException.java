@@ -5,7 +5,7 @@ import com.miyi.common.exception.base.BaseException;
 /**
  * 用户信息异常类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class UserException extends BaseException
 {

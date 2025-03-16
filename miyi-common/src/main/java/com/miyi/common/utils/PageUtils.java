@@ -8,7 +8,7 @@ import com.miyi.common.utils.sql.SqlUtil;
 /**
  * 分页工具类
  * 
- * @author ruoyi
+ * @author miyi
  */
 public class PageUtils extends PageHelper
 {
